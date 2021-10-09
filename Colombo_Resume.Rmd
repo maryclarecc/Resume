@@ -42,30 +42,34 @@ Main
 MaryClare Colombo {#title}
 ------------------------------------
 
-Currently searching for a research-focused Data Analytics job.
+Currently searching for a research-focused Data Analytics job or paid internship.
 
 Education {data-icon=graduation-cap data-concise=true}
 ------------------------------------
 
+### Northwestern University
+
+Data Science and Visualization Bootcamp
+
+Evanston, IL
+
+2022
+
 ### Seton Hall University
 
-M.S. in Experimental Psychology, 4.0
+M.S. in Experimental Psychology-Data Analytics
 
 South Orange, NJ
 
 2021
 
-Certificate in Data Analytics; Psi Chi Psychology Honor Society
-
 ### Kalamazoo College
 
-B.A. in Psychology, 3.77
+B.A. in Psychology
 
 Kalamazoo, MI
 
 2019
-
-Phi Beta Kappa Honor Society
 
 Professional Experience {data-icon=suitcase}
 -----------------------------------
@@ -98,7 +102,7 @@ South Orange, NJ
 
 2019-2021
 
-- Managed two research studies, TAed for biological and learning laboratories
+- Led two research studies, TA for biological psychology and learning laboratories
 
 ### Copy & Features Page Editor, Writer
 
