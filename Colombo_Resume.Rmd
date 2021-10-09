@@ -1,0 +1,132 @@
+---
+title: "Resume"
+author: MaryClare Colombo
+output: pagedown::html_resume
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Aside
+====================================
+
+Contact info {#contact}
+------------------------------------
+
+- <i class="fa fa-envelope"></i> maryclarecc@gmail.com\
+
+- <i class="fa fa-github"></i> [github.com/maryclarecc](https://github.com/maryclarecc)
+
+- <i class="fa fa-phone"></i> 269-547-5208
+
+- <i class="fa fa-linkedin"></i> [linkedin.com/maryclarecolombo](https://linkedin.com/in/maryclarecolombo)
+
+- <i class="fa fa-wordpress"></i> [colombomaryclare ](https://colombomaryclare.wordpress.com)
+
+Skills {#skills}
+------------------------------------
+
+- Beginner-Intermediate proficiency in R, Excel, SPSS, R graphical interfaces, OSF 
+
+- Proficient in program troubleshooting 
+
+- Proficient in self-teaching of software programs
+
+- Learning Python, HTML, JavaScript, SQL
+
+
+Main
+====================================
+
+MaryClare Colombo {#title}
+------------------------------------
+
+Currently searching for a research-focused Data Analytics job.
+
+Education {data-icon=graduation-cap data-concise=true}
+------------------------------------
+
+### Seton Hall University
+
+M.S. in Experimental Psychology, 4.0
+
+South Orange, NJ
+
+2021
+
+Certificate in Data Analytics; Psi Chi Psychology Honor Society
+
+### Kalamazoo College
+
+B.A. in Psychology, 3.77
+
+Kalamazoo, MI
+
+2019
+
+Phi Beta Kappa Honor Society
+
+Professional Experience {data-icon=suitcase}
+-----------------------------------
+
+### Senior Research Study Coordinator
+
+Northwestern University
+
+Evanston, IL
+
+2021
+
+- Managed day-to-day tasks at the Infant and Child Development Center, conducted data analysis
+
+### Research Assistant to Dr. Susan Nolan
+
+Macmillan Publishers
+
+South Orange, NJ
+
+2020-2021
+
+- TA for two courses, Research Assistant for introductory psychology textbook, lab manager
+
+### Graduate Research/Teaching Assistant
+
+Seton Hall University
+
+South Orange, NJ
+
+2019-2021
+
+- Managed two research studies, TAed for biological and learning laboratories
+
+### Copy & Features Page Editor, Writer
+
+*The Index*-Kalamazoo College
+
+Kalamazoo, MI
+
+2015-2018
+
+Selected Research {data-icon=file}
+-----------------------------------
+
+### Effects of online learning engagement techniques for a college stress reduction module
+
+Poster at Eastern Psychological Association Conference
+
+Virtual
+
+2021
+
+**Colombo, M. C.**, & Fisher, P. H. 
+
+### Open science and critical thinking across the psychology curriculum: More important now than ever
+
+Graduate Student Teaching Association Blog.
+
+[STP-GSTA](http://teachpsych.org/page-1784686/9118862)
+
+2020
+
+Nolan, S. A. & **Colombo, M.** 
