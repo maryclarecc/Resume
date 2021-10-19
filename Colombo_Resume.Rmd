@@ -35,6 +35,10 @@ Skills {#skills}
 
 - Learning Python, HTML, JavaScript, SQL
 
+Disclaimer
+------------------------------------
+
+This resume was made with the R package [pagedown](https://github.com/rstudio/pagedown).
 
 Main
 ====================================
