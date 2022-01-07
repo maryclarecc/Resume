@@ -33,7 +33,7 @@ Skills {#skills}
 
 - Proficient in self-teaching of software programs
 
-- Learning Python, HTML, JavaScript, SQL
+- Learning Python and SQL
 
 Disclaimer
 ------------------------------------
@@ -45,8 +45,6 @@ Main
 
 MaryClare Colombo {#title}
 ------------------------------------
-
-Currently searching for a research-focused Data Analytics job or paid internship.
 
 Education {data-icon=graduation-cap data-concise=true}
 ------------------------------------
@@ -78,6 +76,17 @@ Kalamazoo, MI
 Professional Experience {data-icon=suitcase}
 -----------------------------------
 
+### Research Assistant
+
+Macmillan Publishers
+
+Remote, US
+
+2020-present
+
+- TA for two courses, Research Assistant for introductory psychology textbook, lab manager
+- Currently writing supplementary material for an intro psychology textbook
+
 ### Senior Research Study Coordinator
 
 Northwestern University
@@ -87,16 +96,6 @@ Evanston, IL
 2021
 
 - Managed day-to-day tasks at the Infant and Child Development Center, conducted data analysis
-
-### Research Assistant to Dr. Susan Nolan
-
-Macmillan Publishers
-
-South Orange, NJ
-
-2020-2021
-
-- TA for two courses, Research Assistant for introductory psychology textbook, lab manager
 
 ### Graduate Research/Teaching Assistant
 
