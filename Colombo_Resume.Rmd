@@ -22,23 +22,24 @@ Contact info {#contact}
 
 - <i class="fa fa-linkedin"></i> [linkedin.com/maryclarecolombo](https://linkedin.com/in/maryclarecolombo)
 
-- <i class="fa fa-wordpress"></i> [colombomaryclare ](https://colombomaryclare.wordpress.com)
+- <i class="fa fa-wordpress"></i> [colombomaryclare](https://colombomaryclare.wordpress.com)
 
 Skills {#skills}
 ------------------------------------
 
-- Beginner-Intermediate proficiency in R, Excel, SPSS, R graphical interfaces, OSF 
+- Beginner-Intermediate proficiency in:
+  R, Excel, SPSS, Python, SQL
 
 - Proficient in program troubleshooting 
 
 - Proficient in self-teaching of software programs
 
-- Learning Python and SQL
-
 Disclaimer
 ------------------------------------
 
-This resume was made with the R package [pagedown](https://github.com/rstudio/pagedown).
+This resume was made with 
+
+the R package [pagedown](https://github.com/rstudio/pagedown).
 
 Main
 ====================================
@@ -76,16 +77,25 @@ Kalamazoo, MI
 Professional Experience {data-icon=suitcase}
 -----------------------------------
 
+### Research Analyst
+
+Equilar
+
+Chicago, IL
+
+2022-present
+
+- Researching corporate governance and executive compensation
+
 ### Research Assistant
 
 Macmillan Publishers
 
 Remote, US
 
-2020-present
+2020-2022
 
-- TA for two courses, Research Assistant for introductory psychology textbook, lab manager
-- Currently writing supplementary material for an intro psychology textbook
+- TA for two courses, RA for introductory psychology textbook, lab manager, writing supplementary material
 
 ### Senior Research Study Coordinator
 
@@ -117,16 +127,6 @@ Kalamazoo, MI
 
 Selected Research {data-icon=file}
 -----------------------------------
-
-### Effects of online learning engagement techniques for a college stress reduction module
-
-Poster at Eastern Psychological Association Conference
-
-Virtual
-
-2021
-
-**Colombo, M. C.**, & Fisher, P. H. 
 
 ### Open science and critical thinking across the psychology curriculum: More important now than ever
 
